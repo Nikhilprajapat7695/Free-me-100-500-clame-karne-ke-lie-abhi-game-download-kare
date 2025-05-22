@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jaiho777 Game Download</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #101820;
+      color: #fff;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background-color: #1b1f2b;
+      padding: 20px;
+    }
+    h1 {
+      color: #00ffcc;
+    }
+    .container {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    img {
+      width: 90%;
+      max-width: 400px;
+      margin: 20px auto;
+      border-radius: 15px;
+      box-shadow: 0 0 10px #000;
+    }
+    .description {
+      font-size: 16px;
+      line-height: 1.6;
+      margin-top: 20px;
+    }
+    .download-btn {
+      display: inline-block;
+      margin: 30px 0;
+      padding: 15px 30px;
+      background-color: #00c853;
+      color: white;
+      text-decoration: none;
+      font-size: 20px;
+      border-radius: 10px;
+      transition: background-color 0.3s;
+    }
+    .download-btn:hover {
+      background-color: #009624;
+    }
+    footer {
+      background-color: #1b1f2b;
+      color: #aaa;
+      padding: 15px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Download Jaiho 777 Game</h1>
+</header>
+
+<div class="container">
+  <img src="355fa23c-0539-4158-b53b-dac26acf3037.jpg" alt="Game Screenshot 1">
+  <img src="51c01e16-867c-475e-9442-38e5679230eb.jpg" alt="Game Screenshot 2">
+  
+  <!-- Optional placeholder image -->
+  <img src="https://via.placeholder.com/400x200.png?text=Game+Preview" alt="Game Preview">
+
+  <div class="description">
+    <p>
+      Jaiho 777 ek zabardast online gaming platform hai jahan aapko alag-alag slots, card games, aur real reward jeetne ke mauke milte hain. Is game mein aapko roz naye bonus aur offers milte hain, jisse khel aur bhi exciting ban jata hai. 
+      App ka interface simple hai aur user-friendly design ke saath aata hai. Naye users ke liye welcome bonus bhi milta hai jisse aap bina risk ke apna safar shuru kar sakte ho. Is game ke graphics colorful aur attractive hain, jo har user ko engage karte hain. 
+      Aap bhi turant download karein aur apna luck aazmaayein Jaiho777 ke saath!
+    </p>
+  </div>
+
+  <a class="download-btn" href="https://jaiho77726.com/?code=GC2L8SQYGVJ&t=1747914376" target="_blank">
+    Download Now
+  </a>
+</div>
+
+<footer>
+  &copy; 2025 Jaiho 777. All rights reserved.
+</footer>
+
+</body>
+</html>
